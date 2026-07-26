@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi, I am Daniel a PhD student at the university of Stuttgart"
+title: "Hi, I am Daniel a PhD student at the University of Stuttgart"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

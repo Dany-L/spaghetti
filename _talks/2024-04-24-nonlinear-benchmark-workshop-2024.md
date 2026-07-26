@@ -8,4 +8,4 @@ date: 2024-04-24
 location: "Lugano, Switzerland"
 ---
 
-Presented joint work with Tobias Holicki, Steffen Staab, and Carsten W. Scherer at the [Workshop on Nonlinear System Identification Benchmarks](https://www.nonlinearbenchmark.org/history).
+Presented joint work with Tobias Holicki, Steffen Staab, and Carsten W. Scherer at the [Workshop on Nonlinear System Identification Benchmarks](https://drive.google.com/file/d/1DvggYGq0SrQJpVgohqyfw04teZuHhO42/view?usp=sharing).
