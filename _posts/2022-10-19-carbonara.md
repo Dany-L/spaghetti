@@ -2,6 +2,8 @@
 title: 'Carbonara'
 date: 2022-10-19
 permalink: /posts/2022/10/carbonara/
+categories:
+  - other
 tags:
   - pasta
   - food
