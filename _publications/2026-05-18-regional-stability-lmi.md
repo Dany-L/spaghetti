@@ -12,4 +12,4 @@ This paper derives linear matrix inequality (LMI) constraints on the learnable p
 
 [Download paper here](https://arxiv.org/abs/2605.18292)
 
-Recommended citation: Frank, D., Shakib, F., &amp; Staab, S. (2026). "Learning the dynamics of nonlinear systems with regional stability guarantees through linear matrix inequality constraints." <i>arXiv:2605.18292</i>. Accepted at the IFAC World Congress 2026.
+Frank, D., Shakib, F., &amp; Staab, S. (2026). "Learning the dynamics of nonlinear systems with regional stability guarantees through linear matrix inequality constraints." <i>arXiv:2605.18292</i>. Accepted at the IFAC World Congress 2026.

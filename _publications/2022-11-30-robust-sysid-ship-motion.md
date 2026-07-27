@@ -12,4 +12,4 @@ Recurrent neural networks are capable of learning the dynamics of an unknown non
 
 [Download paper here](https://arxiv.org/abs/2212.05781)
 
-Recommended citation: Frank, D., Aspandi Latif, D., Muehlebach, M., Unger, B., &amp; Staab, S. (2022). "Robust recurrent neural network to identify ship motion in open water with performance guarantees." Technical report, <i>arXiv:2212.05781</i>.
+Frank, D., Aspandi Latif, D., Muehlebach, M., Unger, B., &amp; Staab, S. (2022). "Robust recurrent neural network to identify ship motion in open water with performance guarantees." Technical report, <i>arXiv:2212.05781</i>.
