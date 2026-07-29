@@ -11,5 +11,3 @@ citation: 'Frank, D., Shakib, F., &amp; Staab, S. (2026). &quot;Learning the dyn
 This paper derives linear matrix inequality (LMI) constraints on the learnable parameters of recurrent neural networks that certify regional stability guarantees for the learned nonlinear system dynamics.
 
 [Download paper here](https://arxiv.org/abs/2605.18292)
-
-Frank, D., Shakib, F., &amp; Staab, S. (2026). "Learning the dynamics of nonlinear systems with regional stability guarantees through linear matrix inequality constraints." <i>arXiv:2605.18292</i>. Accepted at the IFAC World Congress 2026.

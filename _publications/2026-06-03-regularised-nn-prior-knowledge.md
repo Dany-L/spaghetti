@@ -11,5 +11,3 @@ citation: 'Frank, D., Holicki, T., Scherer, C. W., &amp; Staab, S. (2026). &quot
 This paper proposes a regularisation approach for neural network-based nonlinear system identification that incorporates prior system knowledge.
 
 [Download paper here](https://doi.org/10.1080/00207179.2026.2679228)
-
-Frank, D., Holicki, T., Scherer, C. W., &amp; Staab, S. (2026). "Regularised neural network-based nonlinear system identification with prior system knowledge." <i>International Journal of Control</i>.
